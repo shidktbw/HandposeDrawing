@@ -1,6 +1,7 @@
 # HandposeDrawing
 
-![изображение](https://github.com/shidktbw/HandposeDrawing/assets/112849918/2a6980a6-cffe-4082-9b44-1fff922353dc)
+![изображение](https://github.com/shidktbw/HandposeDrawing/assets/112849918/11b8656c-54c2-47af-b4b2-494f59fba8b2)
+
 
 
 
