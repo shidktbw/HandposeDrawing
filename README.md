@@ -9,9 +9,8 @@ Handpose Drawing is a web application that allows users to draw on the screen us
    * Automatic camera setup
    * Responsive design
   
-  
 # Usage
-1. Clone the repository: `git clone https://github.com/yourusername/handpose-drawing.git`
+1. Clone the repository: `git clone https://github.com/shidktbw/HandposeDrawing.git`
 2. Open the index.html file in your web browser.
 3. Allow the browser to access your camera.
 4. Point your hand at the camera and start drawing!
