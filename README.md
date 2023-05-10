@@ -10,7 +10,7 @@ Handpose Drawing is a web application that allows users to draw on the screen us
 # Features
 
    * Real-time hand tracking using the Handpose model
-   * Drawing on screen with the index finger
+   * Drawing on the screen with your fingers
    * Automatic camera setup
    * Responsive design
   
