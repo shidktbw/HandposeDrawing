@@ -1,5 +1,9 @@
 # HandposeDrawing
 
+![изображение](https://github.com/shidktbw/HandposeDrawing/assets/112849918/2a6980a6-cffe-4082-9b44-1fff922353dc)
+
+
+
 Handpose Drawing is a web application that allows users to draw on the screen using their hand as a virtual pen. This application uses TensorFlow.js and the Handpose model to track the user's hand and detect finger positions.
 
 # Features
