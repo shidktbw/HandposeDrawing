@@ -15,4 +15,3 @@ Handpose Drawing is a web application that allows users to draw on the screen us
 2. Open the index.html file in your web browser.
 3. Allow the browser to access your camera.
 4. Point your hand at the camera and start drawing!
-
